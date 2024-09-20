@@ -92,7 +92,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/Qharny/Contact_Form/edit/main/LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/Qharny/dartvcs/blob/main/license) file for details.
 
 ## Acknowledgments
 
