@@ -79,8 +79,7 @@ class DartVCS {
       return 'No changes staged for commit.';
     }
 
-    return 'Changes staged for commit:\n' +
-        index.entries.map((e) => '  ${e.key}: ${e.value}').join('\n');
+    return 'Changes staged for commit:\n${index.entries.map((e) => '  ${e.key}: ${e.value}').join('\n')}';
   }
 
   Future<String> diff(String filename) async {
